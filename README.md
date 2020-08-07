@@ -4,4 +4,4 @@
 
 [Demo](https://udaykiran199715.github.io/Bill-Generator/)
 
-<img src="" />
+<img src="Bill-Generator.png" />
