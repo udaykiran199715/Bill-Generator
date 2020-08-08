@@ -16,7 +16,7 @@ User can generate the bill by adding quantity of the items and also can choose t
 
 2. If the user want to give any discount to the customer then select the offers in the select box and click on the Total button based on the selected offer the bill will generated.
 
-Technologies used are HTML, CSS, JS
+Technologies used are <strong>HTML, CSS, JS</strong>
 
 ### If you want to run in your local device just run the below command.
 
